@@ -17,33 +17,6 @@ A beautifully crafted, feature-rich Flutter food delivery app designed from a Fi
 
 ---
 
-## Screenshots
-
-<table>
-  <tr>
-    <td align="center"><img src="app screenshots/1.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/2.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/3.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/4.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/5.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/6.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/8.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/11.jpg" width="220"/></td>
-    <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
-  </tr>
-</table>
-
----
-
 ## Features
 
 **Home & Browsing**
@@ -105,6 +78,33 @@ A beautifully crafted, feature-rich Flutter food delivery app designed from a Fi
 | Local Storage | Hive (hive_flutter) |
 | Preferences | shared_preferences |
 | Unique IDs | uuid |
+
+---
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center"><img src="app screenshots/1.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/2.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/3.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="app screenshots/4.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/5.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/6.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="app screenshots/7.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/8.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/9.jpg" width="220"/></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="app screenshots/10.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/11.jpg" width="220"/></td>
+    <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
+  </tr>
+</table>
 
 ---
 
