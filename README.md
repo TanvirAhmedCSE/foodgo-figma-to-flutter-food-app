@@ -68,19 +68,6 @@ A beautifully crafted, feature-rich Flutter food delivery app designed from a Fi
 
 ---
 
-## Tech Stack
-
-| Layer | Technology |
-|---|---|
-| Framework | Flutter (Dart) |
-| State Management | setState + ChangeNotifier |
-| Auth & Cloud | Firebase Authentication + Cloud Firestore |
-| Local Storage | Hive (hive_flutter) |
-| Preferences | shared_preferences |
-| Unique IDs | uuid |
-
----
-
 ## Screenshots
 
 <table>
@@ -105,6 +92,19 @@ A beautifully crafted, feature-rich Flutter food delivery app designed from a Fi
     <td align="center"><img src="app screenshots/12.jpg" width="220"/></td>
   </tr>
 </table>
+
+---
+
+## Tech Stack
+
+| Layer | Technology |
+|---|---|
+| Framework | Flutter (Dart) |
+| State Management | setState + ChangeNotifier |
+| Auth & Cloud | Firebase Authentication + Cloud Firestore |
+| Local Storage | Hive (hive_flutter) |
+| Preferences | shared_preferences |
+| Unique IDs | uuid |
 
 ---
 
